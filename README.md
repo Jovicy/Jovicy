@@ -1,4 +1,4 @@
-# 💫 About Me:
+# The Future:
 👋 Hi, I’m John Victor.<br>👀 Lover of shapes, color, lines.<br>🌱 I’m currently into Frontend Development.<br>🔭 I'm currently building Vuanimate.com<br>💬 Ask me about any tech-related stuff.<br>👯 I’m looking to collaborate on any project using NodeJS, VueJs, React, and any Frontend-web development tool.<br>📫 How to reach me: johnvictordml@gmail.com.<br>😄 Pronouns: He/His<br>👨🏻‍💻 Portfolio: loading.com.<br>⚡ Fun fact: I spend almost 9 hours listening to songs every day.
 
 
